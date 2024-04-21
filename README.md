@@ -135,3 +135,12 @@ recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://g
 
 ```
 
+## Layout Structure
+
+```bash
+
+| layouts/
+---| home.vue
+---| default.vue
+
+```
