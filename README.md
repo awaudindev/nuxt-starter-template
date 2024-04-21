@@ -123,3 +123,15 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://github.com/johnsoncodehk/volar) to get the best experience (You might want to disable [Vetur](https://vuejs.github.io/vetur/) if you have it).
 
+## Pages Structure
+
+```bash
+
+| pages/
+---| about.vue
+---| index.vue
+---| posts/
+-----| [id].vue
+
+```
+
