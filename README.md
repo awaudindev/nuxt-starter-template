@@ -20,6 +20,16 @@ yarn install
 bun install
 ```
 
+## Preparing Development
+
+```bash
+# Generate type stubs
+pnpm run prepare
+
+# And run any commands
+pnpm nuxi <command>
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
@@ -110,16 +120,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## Commands
 
 All commands are listed on https://nuxt.com/docs/api/commands
-
-## Contributing
-
-```bash
-# Generate type stubs
-pnpm run prepare
-
-# And run any commands
-pnpm nuxi <command>
-```
 
 ## IDE
 
