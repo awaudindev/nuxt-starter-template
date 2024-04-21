@@ -103,6 +103,30 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - [VitePWA](https://github.com/vite-pwa/nuxt) - zero-config PWA Plugin for Nuxt 3.
 - [DevTools](https://github.com/nuxt/devtools) - unleash Nuxt Developer Experience.
 
+# Nuxt CLI (nuxi)
+
+⚡️ [Nuxt](https://nuxt.com/) Generation CLI Experience.
+
+## Commands
+
+All commands are listed on https://nuxt.com/docs/api/commands
+
+## Contributing
+
+```bash
+# Install dependencies
+pnpm i
+
+# Generate type stubs
+pnpm dev:prepare
+
+# Go the the playground directory
+cd playground
+
+# And run any commands
+pnpm nuxi <command>
+```
+
 ## IDE
 
 recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://github.com/johnsoncodehk/volar) to get the best experience (You might want to disable [Vetur](https://vuejs.github.io/vetur/) if you have it).
