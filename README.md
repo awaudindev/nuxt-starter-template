@@ -114,14 +114,8 @@ All commands are listed on https://nuxt.com/docs/api/commands
 ## Contributing
 
 ```bash
-# Install dependencies
-pnpm i
-
 # Generate type stubs
-pnpm dev:prepare
-
-# Go the the playground directory
-cd playground
+pnpm run prepare
 
 # And run any commands
 pnpm nuxi <command>
