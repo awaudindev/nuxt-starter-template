@@ -20,7 +20,13 @@ yarn install
 bun install
 ```
 
-## Preparing Development
+# Nuxt CLI (nuxi)
+
+⚡️ [Nuxt](https://nuxt.com/) Generation CLI Experience.
+
+## Commands
+
+All commands are listed on https://nuxt.com/docs/api/commands
 
 ```bash
 # Generate type stubs
@@ -112,14 +118,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - [Pinia](https://github.com/vuejs/pinia) - intuitive, type safe, light and flexible Store for Vue.
 - [VitePWA](https://github.com/vite-pwa/nuxt) - zero-config PWA Plugin for Nuxt 3.
 - [DevTools](https://github.com/nuxt/devtools) - unleash Nuxt Developer Experience.
-
-# Nuxt CLI (nuxi)
-
-⚡️ [Nuxt](https://nuxt.com/) Generation CLI Experience.
-
-## Commands
-
-All commands are listed on https://nuxt.com/docs/api/commands
 
 ## IDE
 
