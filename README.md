@@ -23,7 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## Setup
 
@@ -207,3 +206,16 @@ export const useMainStore = defineStore('main', {
 ```
 
 `defineStore` returns a function that has to be called to get access to the store:
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/awaudindev/nuxt-starter-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[forks-url]: https://github.com/awaudindev/nuxt-starter-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[stars-url]: https://github.com/awaudindev/nuxt-starter-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[issues-url]: https://github.com/awaudindev/nuxt-starter-templatee/issues
+[license-shield]: https://img.shields.io/github/license/awaudindev/nuxt-starter-template.svg?style=for-the-badge
+[license-url]: https://github.com/awaudindev/nuxt-starter-template/blob/master/LICENSE.txt
