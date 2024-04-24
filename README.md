@@ -25,7 +25,7 @@
 [![MIT License][license-shield]][license-url]
 
 
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Starter Project
 
 <br />
 <div align="center">
