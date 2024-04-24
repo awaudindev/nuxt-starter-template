@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+
 
 <!--
 *** Thanks for checking out my repository. If you have a suggestion
@@ -23,6 +23,9 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
+
+# Nuxt 3 Minimal Starter
 
 <br />
 <div align="center">
