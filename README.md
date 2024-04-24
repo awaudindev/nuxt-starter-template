@@ -13,8 +13,6 @@
 [![MIT License][license-shield]][license-url]
 
 
-# Nuxt 3 Starter Project
-
 <!--
 *** Thanks for checking out my repository. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -25,7 +23,8 @@
 
 <br />
 <div align="center">
-A journey to improve Frontend development
+  <h3>Nuxt 3 Starter Project</h3>
+  <p>A journey to improve Frontend development</p>
 </div>
 
 ## About The Project
