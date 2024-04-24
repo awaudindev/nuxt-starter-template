@@ -31,14 +31,16 @@ A journey to improve Frontend development
 
 ## About The Project
 
-This project is a frontend part of integration between mobile apps and php framework data processing
+This project is a frontend part of integration between mobile apps and php framework data processing.
 
-Here are the link to mobile apps and php framework:
+Here are the link to mobile apps and php framework repository:
 * [![Laravel][Laravel-repo]][Laravel-url]
 * [![Flutter][Flutter-repo]][Flutter-url]
 
 
-## Setup
+## Getting Started
+
+### Installation
 
 Make sure to install the dependencies:
 
@@ -55,6 +57,42 @@ yarn install
 # bun
 bun install
 ```
+
+## Pages Structure
+
+```bash
+
+| pages/
+---| about.vue
+---| index.vue
+---| posts/
+-----| [id].vue
+
+```
+
+## Layout Structure
+
+```bash
+
+| layouts/
+---| home.vue
+---| default.vue
+
+```
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
 
 # Nuxt CLI (nuxi)
 
@@ -158,28 +196,6 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## IDE
 
 recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https://github.com/johnsoncodehk/volar) to get the best experience (You might want to disable [Vetur](https://vuejs.github.io/vetur/) if you have it).
-
-## Pages Structure
-
-```bash
-
-| pages/
----| about.vue
----| index.vue
----| posts/
------| [id].vue
-
-```
-
-## Layout Structure
-
-```bash
-
-| layouts/
----| home.vue
----| default.vue
-
-```
 
 ## Pinia State Management Usage
 
