@@ -24,6 +24,20 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
+<br />
+<div align="center">
+A journey to improve Frontend development
+</div>
+
+## About The Project
+
+This project is a frontend part of integration between mobile apps and php framework data processing
+
+Here are the link to mobile apps and php framework:
+* [![Laravel][Laravel-repo]][Laravel-url]
+* [![Flutter][Flutter-repo]][Flutter-url]
+
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -219,3 +233,7 @@ export const useMainStore = defineStore('main', {
 [issues-url]: https://github.com/awaudindev/nuxt-starter-templatee/issues
 [license-shield]: https://img.shields.io/github/license/awaudindev/nuxt-starter-template.svg?style=for-the-badge
 [license-url]: https://github.com/awaudindev/nuxt-starter-template/blob/master/LICENSE.txt
+[Laravel-repo]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
+[Laravel-url]: https://github.com/awaudindev/laravel-backend-project
+[Flutter-repo]:  https://img.shields.io/badge/Flutter-0468d7?style=for-the-badge&logo=flutter&logoColor=white
+[Flutter-url]: https://github.com/awaudindev/Flutter-Simple-Project
