@@ -36,6 +36,9 @@ Here are the link to mobile apps and php framework repository:
 * [![Laravel][Laravel-repo]][Laravel-url]
 * [![Flutter][Flutter-repo]][Flutter-url]
 
+## Prerequisite
+
+* Install [nodejs](https://nodejs.org/en/download) prefer v20.*.*
 
 ## Getting Started
 
